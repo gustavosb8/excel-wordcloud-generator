@@ -37,6 +37,7 @@ excel-wordcloud-generator/
 
 Stopwords adicionais: Você pode adicionar novas palavras irrelevantes ao conjunto novas_stopwords no código.
 Configuração da WordCloud: Ajuste parâmetros como width, height e background_color para personalizar a visualização.
+Você pode também optar por executar o script .BAT para automatizações
 
 ✅ Exemplo de Saída
 
