@@ -40,4 +40,6 @@ Configuração da WordCloud: Ajuste parâmetros como width, height e background_
 
 ✅ Exemplo de Saída
 
-<img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/2c838fec-30d9-414a-a5d7-6854dd8d37a1" />
+<img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/f66a04f4-0728-4a1b-b44b-26d076ef010f" />
+
+
